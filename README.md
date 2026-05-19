@@ -22,7 +22,7 @@ Built using Python and CustomTkinter, AURA provides a modern graphical interface
 ```bash
 AURA/
 │
-├── main.py
+├── aura_app.py
 ├── assets/
 ├── README.md
 └── requirements.txt
